@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sohit | Business Central Consultant</title>
+</head>
+<body>
+    <h1>Hello, I’m Sohit 👋</h1>
+    <h2>Business Central Techno-Functional Consultant</h2>
+
+    <p>
+        I specialize in Microsoft Dynamics 365 Business Central,
+        bridging the gap between business requirements and technical solutions.
+    </p>
+
+    <p>Welcome to dynamicserp.in</p>
+</body>
+</html>
